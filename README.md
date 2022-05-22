@@ -8,15 +8,11 @@ Official github repository for the proposed convoluted neural network: Attention
   <ol>
     <li>
       <a href="#Motivation">Motivation</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#About the Project">About the Project</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Built With">Built With</a></li>
       </ul>
     </li>
     <li><a href="#Results">Results</a></li>
@@ -43,6 +39,13 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 <figcaption>AER-Net architecture. Author: José Guilherme P. Lima</figcaption>
 </div>
 
+### Built With
+
+* Python 3.6
+* Tensorflor
+* OpenCV
+
+
 ## Results
 
 In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assembling techniques, including U-Net and Attention U-Net based on Jaccard Index and/or Dice Coefficient index metrics.
@@ -54,11 +57,13 @@ In our experiments, we use AER-NET on dermoscopic images taken from the public I
 <figcaption>Comparison Table. Author: José Guilherme P. Lima</figcaption>
 </div>
 
+<br><br>
+
 <div  align="center">
 <img src="./imgs/aer example.png" width = "500">
 </div>
 <div  align="center">
-<figcaption>AER-NET outputs: good, medium, unsatisfactory examples from top to bottom</figcaption>
+<figcaption>AER-NET outputs: good, medium, unsatisfactory examples from top to bottom respectively</figcaption>
 </div>
 
 

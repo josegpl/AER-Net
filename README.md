@@ -41,5 +41,7 @@ This work aims to propose a new model based on encoder-decoder architectures tha
 In this paper we propose a new convolutional neural netwok called AER-Net, short for Attention Efficient Residual U-Net. It is based on three main components:
 Pre-trained EfficientNet backbone encoder, residual connections througout the paths of the architecture and skip connections through the usage of Attention Gates. 
 
-
+<div  align="center">
+<img src="./imgs/AER-Net architecture.png" width = "700">
+</div>
 

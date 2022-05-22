@@ -1,6 +1,6 @@
 # AER-Net
 
-Official github repository for the proposed convoluted neural network: Attention Efficient Residual U-Net. As 
+Official github repository for the proposed convoluted neural network: Attention Efficient Residual U-Net. This project contributed to my bachelor thesis "Attention Efficient Residual U-Net: uma Rede Neural para a Segmentação de Lesões de Pele" written and presented at Federal University of Maranhão in April 2021 which achieved the highest grade for approval.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -13,7 +13,7 @@ Official github repository for the proposed convoluted neural network: Attention
       </ul>
     </li>
     <li>
-      <a href="#AboutTheProject">About the Project</a>
+      <a href="#About The Project">About the Project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -40,4 +40,6 @@ This work aims to propose a new model based on encoder-decoder architectures tha
 
 In this paper we propose a new convolutional neural netwok called AER-Net, short for Attention Efficient Residual U-Net. It is based on three main components:
 Pre-trained EfficientNet backbone encoder, residual connections througout the paths of the architecture and skip connections through the usage of Attention Gates. 
+
+
 

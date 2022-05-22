@@ -50,7 +50,7 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 
 ## Results
 
-In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assemble techniques, including U-Net and Attention U-Net based on Jaccard Index and Dice Coefficient index metrics.
+In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assembling techniques, including U-Net and Attention U-Net based on Jaccard Index and Dice Coefficient index metrics.
 
 <div  align="center">
 <img src="./imgs/Comparison_Table.PNG" width = "500">

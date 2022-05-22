@@ -19,7 +19,7 @@ Official github repository for the proposed convoluted neural network: Attention
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Results">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -47,4 +47,17 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 <div  align="center">
 <figcaption>AER-Net architecture. Author: José Guilherme P. Lima</figcaption>
 </div>
+
+## Results
+
+In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assemble techniques, including U-Net and Attention U-Net based on Jaccard Index and Dice Coefficient index metrics.
+
+<div  align="center">
+<img src="./imgs/Comparison_Table.PNG" width = "500">
+</div>
+<div  align="center">
+<figcaption>Comparison Table. Author: José Guilherme P. Lima</figcaption>
+</div>
+
+
 

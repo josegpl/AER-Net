@@ -7,13 +7,13 @@ Official github repository for the proposed convoluted neural network: Attention
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Motivation">About The Project</a>
+      <a href="#Motivation">Motivation</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#AboutTheProject">About the Project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>

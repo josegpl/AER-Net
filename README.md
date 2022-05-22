@@ -13,17 +13,17 @@ Official github repository for the proposed convoluted neural network: Attention
       </ul>
     </li>
     <li>
-      <a href="#About The Project">About the Project</a>
+      <a href="#About the Project">About the Project</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Results">Usage</a></li>
+    <li><a href="#Results">Results</a></li>
   </ol>
 </details>
 
-<!--> MOTIVATION AND INTRODUCTION <-->
+<!-- MOTIVATION AND INTRODUCTION -->
 
 ## Motivation
 
@@ -54,5 +54,11 @@ In our experiments, we use AER-NET on dermoscopic images taken from the public I
 <figcaption>Comparison Table. Author: José Guilherme P. Lima</figcaption>
 </div>
 
+<div  align="center">
+<img src="./imgs/aer example.png" width = "500">
+</div>
+<div  align="center">
+<figcaption>AER-NET outputs: good, medium, unsatisfactory examples from top to bottom</figcaption>
+</div>
 
 

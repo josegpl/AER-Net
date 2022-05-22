@@ -42,7 +42,7 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 ### Built With
 
 * Python 3.6
-* Tensorflor
+* Tensorflow
 * OpenCV
 
 

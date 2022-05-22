@@ -20,11 +20,6 @@ Official github repository for the proposed convoluted neural network: Attention
       </ul>
     </li>
     <li><a href="#Results">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -50,7 +45,7 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 
 ## Results
 
-In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assembling techniques, including U-Net and Attention U-Net based on Jaccard Index and Dice Coefficient index metrics.
+In our experiments, we use AER-NET on dermoscopic images taken from the public ISIC 2018 challenge dataset. The new proposed technique outperforms existing non-assembling techniques, including U-Net and Attention U-Net based on Jaccard Index and/or Dice Coefficient index metrics.
 
 <div  align="center">
 <img src="./imgs/Comparison_Table.PNG" width = "500">

@@ -46,5 +46,5 @@ Pre-trained EfficientNet backbone encoder, residual connections througout the pa
 </div>
 <div  align="center">
 <figcaption>AER-Net architecture. Author: José Guilherme P. Lima</figcaption>
-<\div>
+</div>
 
